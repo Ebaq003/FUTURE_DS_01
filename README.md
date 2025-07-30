@@ -1,4 +1,4 @@
-																														** BUSINESS SALES DASHBOARD USING E-COMMERCE DATA**
+** BUSINESS SALES DASHBOARD USING E-COMMERCE DATA**
 In this project, I worked with a business sales dataset and built an interactive dashboard.
 
 The aim of the dashboard is to provide a comprehensive overview of business sales performance, analyzing metrics across different categories, regions, segments, and time periods.
@@ -49,6 +49,7 @@ Office Supplies follows, with Furniture generating the lowest profit.
 
 
 🧠 **Insights**
+
 Technology products generate the highest revenue and profit, making them the strongest-performing category overall.
 
 The West region shows the highest product movement by volume.

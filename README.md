@@ -1,10 +1,12 @@
 ** BUSINESS SALES DASHBOARD USING E-COMMERCE DATA**
+
 In this project, I worked with a business sales dataset and built an interactive dashboard.
 
 The aim of the dashboard is to provide a comprehensive overview of business sales performance, analyzing metrics across different categories, regions, segments, and time periods.
 It is designed to offer quick insights into sales trends, product performance, and regional distribution,enabling data-driven business decisions.
 
 📌 **Key Metrics**
+
 **Sum of Quantity**: 38K units sold
 
 **Sum of Sales:** $2.30M total sales
@@ -22,11 +24,13 @@ Corporate (30.74%)
 Consumer (18.7%)
 
 2. 🗺️ **Sum of Quantity by Region and Category**
+   
 The West region leads in quantity sold, particularly in Office Supplies.
 
 Other regions in descending order: East, Central, South.
 
 3. 📈 **Sum of Sales by Year and Category**
+
 Continuous growth in all categories from 2011 to 2014, with Technology showing the highest increase in 2014.
 
 Categories include:
@@ -38,15 +42,16 @@ Office Supplies
 Technology
 
 4. 🛍️ **Sales by Category**
+
 Technology leads in sales (~$0.9M)
 
 Followed by Furniture and Office Supplies
 
 5. 💰 **Profit by Category**
+
 Technology is the most profitable category (~$145K)
 
 Office Supplies follows, with Furniture generating the lowest profit.
-
 
 🧠 **Insights**
 
